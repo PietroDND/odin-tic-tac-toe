@@ -14,11 +14,11 @@ A browser-based Tic Tac Toe game built with vanilla JavaScript, HTML, and CSS �
 
 ## 🧩 Code Structure
 
-- Gameboard – Stores the game state
-- Player – Factory for creating player objects
-- GameController – Handles game flow, turn logic, win/tie detection
-- DisplayController – Manages DOM interaction and rendering
-- Minimax – Implements unbeatable AI for Impossible mode
+* `Gameboard` – Stores the game state  
+* `Player` – Factory for creating player objects  
+* `GameController` – Handles game flow, turn logic, win/tie detection  
+* `DisplayController` – Manages DOM interaction and rendering  
+* `Minimax` – Implements unbeatable AI for Impossible mode  
 
 ## 📦 Technologies Used
 
