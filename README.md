@@ -29,6 +29,13 @@ A browser-based Tic Tac Toe game built with vanilla JavaScript, HTML, and CSS �
   - Module pattern (IIFE)
   - Minimal global scope
 
+## 🎓 What I Learned
+
+* Structuring a project with minimal global scope
+* Separating logic and UI responsibilities
+* Implementing AI behavior with increasing complexity
+* Writing clean, reusable code with the factory pattern
+
 ## 🎮 Try It
 
 1. Try the live preview [here]().
