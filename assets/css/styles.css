@@ -10,7 +10,6 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    overflow: hidden;
     background: linear-gradient(60deg, #4B0082, #800080);
     color: white;
 }
