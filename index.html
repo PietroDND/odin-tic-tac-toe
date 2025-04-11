@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tic Tac Toe</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" />
+    <!-- Tic tac toe icons created by Freepik - Flaticon -->
+    <link rel="shortcut icon" href="assets/imgs/tic-tac-toe-logo.png" type="image/x-icon">
+</head>
+<body>
+    <h1>Tic Tac Toe vs CPU</h1>
+    <p class="desc">
+        Tic Tac Toe vs CPU is a JavaScript-based implementation of the classic game featuring 
+        four difficulty levels: Easy, Medium, Hard, and Impossible. 
+        The CPU behavior scales from selecting random moves to basic heuristics, 
+        with Impossible mode using the Minimax algorithm, thus making the CPU unbeatable. Try it!
+    </p>
+    <label for="difficulty">Select a difficulty level:</label>
+    <select name="difficulty" id="difficulty">
+        <option value="easy">Easy</option>
+        <option value="medium">Medium</option>
+        <option value="hard">Hard</option>
+        <option value="impossible">Impossible</option>
+    </select>
+    <div id="board"></div>
+    <div id="message"></div>
+    <button id="restart">Restart Game</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
