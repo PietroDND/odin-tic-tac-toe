@@ -38,4 +38,4 @@ A browser-based Tic Tac Toe game built with vanilla JavaScript, HTML, and CSS â€
 
 ## ðŸŽ® Try It
 
-1. Try the live preview [here](https://pietrodnd.github.io/odin-tic-tac-toe/).
+1. Try the live preview [here](https://pietrodnd.github.io/tic-tac-toe-vs-cpu/).
